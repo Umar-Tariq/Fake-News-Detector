@@ -31,20 +31,6 @@ Try it locally or deploy to platforms like Streamlit Cloud or Hugging Face Space
 
 ---
 
-## 📁 Project Structure
-
-FakeNewsDetector/
-│
-├── app.py # Streamlit frontend application
-├── fake_news_model.pkl # Trained Logistic Regression model
-├── tfidf_vectorizer.pkl # Fitted TF-IDF vectorizer
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
-
-
----
-
 ## 💡 How It Works
 
 1. **Text Preprocessing** using TF-IDF
