@@ -70,10 +70,8 @@ joblib
 
 This project is open source under the MIT License.
 
-
 ✨ Author
 Made with 💻 by Muhammad Umar Tariq
-LinkedIn • GitHub
 
 ⭐ Star this repo
 If you found this helpful, please ⭐ the repo and share!
